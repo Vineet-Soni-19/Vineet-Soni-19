@@ -2,7 +2,7 @@
 <h3 align="center">A aspiring MERN stack developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47io201y67qdwebiumjgkzp8jbls8993zyza3ddw2w&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **vineetsoni304@gmail.com**
 
